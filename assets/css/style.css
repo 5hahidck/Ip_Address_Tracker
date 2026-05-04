@@ -1,0 +1,59 @@
+/* Basic styles for IP Address Tracker */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fb;
+  color: #333;
+}
+
+.tracker {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+#search-form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+#search-form input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
+
+#search-form button {
+  padding: 0.75rem 1.5rem;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.info-card {
+  display: grid;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.info-item {
+  background: #fff;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+}
+
+.info-item p {
+  margin: 0 0 0.5rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.1rem;
+  color: #888;
+}
+
+.info-item strong {
+  display: block;
+  font-size: 1.25rem;
+}
