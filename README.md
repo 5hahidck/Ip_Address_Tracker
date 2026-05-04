@@ -52,4 +52,4 @@ Following professional standards, the project is decoupled into logical director
 
 1. **Clone the repo**:
    ```bash
-   git clone [https://github.com/your-username/ip-address-tracker.git](https://github.com/your-username/ip-address-tracker.git)
+   git clone [https://github.com/your-username/ip-address-tracker.git](https://github.com/5hahidck/ip-address-tracker.git)
